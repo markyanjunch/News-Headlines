@@ -10,7 +10,7 @@ A Flask app that retrieves headlines from New York Times API
 To run the app locally, download this repo to your local environment. 
 An API key is needed
 (see "Query New York Times API" in [instructions](HW_7_Flask.pdf)).  
-Store your API key in a new file called secrets.py like:
+Store your API key in a new file called secrets.py:
 ```python
 api_key = '<your api-key>'
 ```
