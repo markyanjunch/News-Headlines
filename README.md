@@ -1,5 +1,7 @@
 # SI507FA21 HW7: Flask
 A Flask app that retrieves headlines from New York Times API
+Instructor: Bobby Madamanchi
+
 ## API Used
 [New York Times API](https://developer.nytimes.com/)
 
