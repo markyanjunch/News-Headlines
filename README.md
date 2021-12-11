@@ -31,10 +31,10 @@ URL: http://localhost:5000/name/Buffy *("Buffy" can be replaced by any other nam
 ### Headlines
 URL: http://localhost:5000/headlines/Buffy *("Buffy" can be replaced by any other names)*
 ![](demos/demo3.jpg)
-### Headlines with Links
+### Headlines with Links (Extra Credit 1)
 Links to the actual story on NYT.   
 URL: http://localhost:5000/links/Buffy *("Buffy" can be replaced by any other names)*
 ![](demos/demo4.jpg)
-### Table with Headlines and Thumbnails
+### Table with Headlines and Thumbnails (Extra Credit 2)
 URL: http://localhost:5000/images/Buffy *("Buffy" can be replaced by any other names)*
 ![](demos/demo5.jpg)
